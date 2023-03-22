@@ -1,0 +1,6 @@
+[submodule "mobile_app"]
+	path = mobile_app
+	url = git@github.com:definev/tidmid.git
+[submodule "server"]
+	path = server
+	url = git@github.com:definev/tidmid_server.git
